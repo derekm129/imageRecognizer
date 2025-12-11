@@ -12,8 +12,6 @@ This webpage can be used to create a description of an image after being analyze
 
 ![AI Image Analyzer](./public/images/analyzerScreenshot.png)
 
-https://ai-image-analyzer-frontend-ff29540fe8e54550.s3.us-east-1.amazonaws.com/index.html
-
 ## Credits
 
 This project was independently developed.
